@@ -1,0 +1,14 @@
+{
+    "name" : "hub.me",
+    "description" : "hub.me, an alternative and responsive gallery to display all your projects on Github.",
+    "version" : "1.0.1",
+    "author" : {
+        "name" : "Zeno Rocha"
+    },
+    "licenses": [
+        {
+            "type": "WTF-PL",
+            "url": "http://github.com/zenorocha/hub.me/blob/master/WTF-PL"
+        }
+    ]
+}
